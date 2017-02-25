@@ -184,6 +184,6 @@ Module['FS_createPath']('/Game2D/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"audio": 0, "start": 0, "crunched": 0, "end": 106, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"audio": 0, "start": 106, "crunched": 0, "end": 138, "filename": "/UE4CommandLine.txt"}, {"audio": 0, "start": 138, "crunched": 0, "end": 355, "filename": "/Engine/Build/Build.version"}, {"audio": 0, "start": 355, "crunched": 0, "end": 24165651, "filename": "/Game2D/Content/Paks/Game2D-HTML5.pak"}], "remote_package_size": 24165651, "package_uuid": "c90a2a9f-84d0-4533-849f-9257cdefd13d"});
+ loadPackage({"files": [{"audio": 0, "start": 0, "crunched": 0, "end": 106, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"audio": 0, "start": 106, "crunched": 0, "end": 138, "filename": "/UE4CommandLine.txt"}, {"audio": 0, "start": 138, "crunched": 0, "end": 355, "filename": "/Engine/Build/Build.version"}, {"audio": 0, "start": 355, "crunched": 0, "end": 24172345, "filename": "/Game2D/Content/Paks/Game2D-HTML5.pak"}], "remote_package_size": 24172345, "package_uuid": "a8adb914-66f5-41a3-b0cc-cd0e76fd4624"});
 
 })();
